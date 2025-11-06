@@ -1,21 +1,25 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Franklin Wang</h1>
+<h3 align="center">A passionate Computer Science major from UC Santa Cruz!</h3>
 
-  ## Hi 👋, I'm Franklin Wang
----
-A passionate Computer Science major from UC Santa Cruz!  
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram087" alt="vikram087" /></a> </p>
 
-</div>
+- 📫 How to reach me **franklinywang@gmail.com**
 
+## 🚀 Check out my repositories
 
-📫 How to reach me franklinywang@gmail.com
-
-# 🚀 Check Out My Repositories
 Here are some of my favorite projects:
 
----
+- 🔗 Linkkup - [linkkup.ai](https://linkkup.ai)
+- 🤺 [Garde](https://github.com/GardeFencing) - [gardeai.com](https://gardeai.com)
+- 🔬 [ICAM Materials Database](https://github.com/vikram087/icam-materials-database)
+- 📚 Pomodoro - [Web App](https://github.com/Shaurya-Srivastav/AggieGuide), [Chatbot](https://github.com/Shaurya-Srivastav/AggieGuidePython), [Practice Test Maker](https://github.com/vikram087/Aggie_Helper_PTest), [Note Maker](https://github.com/Shaurya-Srivastav/AggieGuideNotes)
+- 🏔️ [ClimbGUI](https://github.com/Climb-GUI/Climb_GUI) - [climb-gui.netlify.app](https://climb-gui.netlify.app)
+- 🧠 [MindShift](https://github.com/vikram087/MindShift)
+- 🦈 [Sharkproof](https://github.com/EW0824/CalHacks24)
+- 🤝 [HelpingHand](https://github.com/Helping-Hand-HHH/HelpingHand)
+- 🏎️ [Traffic Invaders](https://github.com/vikram087/TrafficInvaders)
 
-## ☁️ Cloud & Infrastructure
+  ## ☁️ Cloud & Infrastructure
 - **[AutoOps](https://github.com/yourusername/AutoOps)** — AI-driven self-healing infrastructure using AWS Bedrock, Docker, and EC2.  
 - **[PanTree](https://github.com/yourusername/PanTree)** — Cloud-hosted data and compute management tool (add short description here).
 
@@ -30,29 +34,23 @@ Here are some of my favorite projects:
 ## 🧩 Open Source Contributions
 - **[UCSC Autograder](https://github.com/yourusername/Autograder)** — Dockerized grading platform with real-time feedback via WebSockets, used by UCSC faculty.  
 
----
 
-## Connect with me:
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/franklinnnwang/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
 </p>
 
-
-## Check out my Devpost:
-
+<h3 align="left">Check out my Devpost:</h3>
 <p align="left">
   <a href="https://devpost.com/franklinywang" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/devpost.svg" alt="Devpost" width="45" height="45"/>
   </a>
 </p>
 
-
-## Languages and Tools:
-
-<p align="left">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
@@ -73,5 +71,17 @@ Here are some of my favorite projects:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-</p>
+ </p>
 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram087&show_icons=true&locale=en&layout=compact" alt="vikram087" /></p> -->
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vikram087&show_icons=true&locale=en" alt="vikram087" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikram087&" alt="vikram087" />
+    </td>
+  </tr>
+</table>

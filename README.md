@@ -17,7 +17,7 @@ Here are some of my favorite projects that showcase my work across cloud, web, a
 ---
 
 ### 💻 Web Development
-🎮 **[Baskin Day TypeRacer](https://github.com/franklinwangg/BaskinDay-TypeRacer)** — Real-time multiplayer typing game built with React + WebSockets.  
+🎮 **[Baskin Day TypeRacer](https://github.com/franklinwangg/Baskin-Day-TypeRacer)** — Real-time multiplayer typing game built with React + WebSockets.  
 🥊 **[BoxingNews258](https://github.com/franklinwangg/BoxingNews258)** — Boxing forum + news aggregator hosted on AWS (React, Node, PostgreSQL).
 
 ---

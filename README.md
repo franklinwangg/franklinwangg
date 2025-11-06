@@ -19,6 +19,31 @@ Here are some of my favorite projects:
 - 🤝 [HelpingHand](https://github.com/Helping-Hand-HHH/HelpingHand)
 - 🏎️ [Traffic Invaders](https://github.com/vikram087/TrafficInvaders)
 
+
+
+
+☁️ Cloud & Infrastructure
+
+⚙️ AutoOps
+ — AI-driven self-healing infrastructure using AWS Bedrock, Docker, and EC2.
+
+🌩️ PanTree
+ — Cloud-hosted data and compute management platform.
+
+💻 Web Development
+
+🎮 Baskin Day TypeRacer
+ — Real-time multiplayer typing game built with React + WebSockets.
+
+🥊 BoxingNews258
+ — Boxing forum + news aggregator hosted on AWS (React, Node, PostgreSQL).
+
+🧩 Open Source Contributions
+
+🧠 UCSC Autograder
+ — Dockerized grading system with real-time WebSocket feedback used by UCSC faculty.
+
+
   ## ☁️ Cloud & Infrastructure
 - **[AutoOps](https://github.com/yourusername/AutoOps)** — AI-driven self-healing infrastructure using AWS Bedrock, Docker, and EC2.  
 - **[PanTree](https://github.com/yourusername/PanTree)** — Cloud-hosted data and compute management tool (add short description here).

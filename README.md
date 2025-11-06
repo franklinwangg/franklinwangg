@@ -11,19 +11,19 @@ Here are some of my favorite projects that showcase my work across cloud, web, a
 ---
 
 ### ☁️ Cloud & Infrastructure
-⚙️ **[AutoOps](https://github.com/yourusername/AutoOps)** — AI-driven self-healing infrastructure using AWS Bedrock, Docker, and EC2.  
-🌩️ **[PanTree](https://github.com/yourusername/PanTree)** — Cloud-hosted data and compute management platform.
+⚙️ **[AutoOps](https://github.com/franklinwangg/AutoOps)** — AI-driven self-healing infrastructure using AWS Bedrock, Docker, and EC2.  
+🌩️ **[PanTree](https://github.com/franklinwangg/PanTree)** — Cloud-hosted data and compute management platform.
 
 ---
 
 ### 💻 Web Development
-🎮 **[Baskin Day TypeRacer](https://github.com/yourusername/BaskinDay-TypeRacer)** — Real-time multiplayer typing game built with React + WebSockets.  
-🥊 **[BoxingNews258](https://github.com/yourusername/BoxingNews258)** — Boxing forum + news aggregator hosted on AWS (React, Node, PostgreSQL).
+🎮 **[Baskin Day TypeRacer](https://github.com/franklinwangg/BaskinDay-TypeRacer)** — Real-time multiplayer typing game built with React + WebSockets.  
+🥊 **[BoxingNews258](https://github.com/franklinwangg/BoxingNews258)** — Boxing forum + news aggregator hosted on AWS (React, Node, PostgreSQL).
 
 ---
 
 ### 🧩 Open Source Contributions
-🧠 **[UCSC Autograder](https://github.com/yourusername/Autograder)** — Dockerized grading system with real-time WebSocket feedback used by UCSC faculty.
+🧠 **[UCSC Autograder](https://github.com/franklinwangg/autograder-py)** — Dockerized grading system with real-time WebSocket feedback used by UCSC faculty.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

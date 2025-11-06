@@ -25,64 +25,6 @@ Here are some of my favorite projects that showcase my work across cloud, web, a
 ### 🧩 Open Source Contributions
 🧠 **[UCSC Autograder](https://github.com/yourusername/Autograder)** — Dockerized grading system with real-time WebSocket feedback used by UCSC faculty.
 
-
-
-
-## 🚀 Check out my repositories
-
-Here are some of my favorite projects:
-
-- 🔗 Linkkup - [linkkup.ai](https://linkkup.ai)
-- 🤺 [Garde](https://github.com/GardeFencing) - [gardeai.com](https://gardeai.com)
-- 🔬 [ICAM Materials Database](https://github.com/vikram087/icam-materials-database)
-- 📚 Pomodoro - [Web App](https://github.com/Shaurya-Srivastav/AggieGuide), [Chatbot](https://github.com/Shaurya-Srivastav/AggieGuidePython), [Practice Test Maker](https://github.com/vikram087/Aggie_Helper_PTest), [Note Maker](https://github.com/Shaurya-Srivastav/AggieGuideNotes)
-- 🏔️ [ClimbGUI](https://github.com/Climb-GUI/Climb_GUI) - [climb-gui.netlify.app](https://climb-gui.netlify.app)
-- 🧠 [MindShift](https://github.com/vikram087/MindShift)
-- 🦈 [Sharkproof](https://github.com/EW0824/CalHacks24)
-- 🤝 [HelpingHand](https://github.com/Helping-Hand-HHH/HelpingHand)
-- 🏎️ [Traffic Invaders](https://github.com/vikram087/TrafficInvaders)
-
-
-
-
-☁️ Cloud & Infrastructure
-
-⚙️ AutoOps
- — AI-driven self-healing infrastructure using AWS Bedrock, Docker, and EC2.
-
-🌩️ PanTree
- — Cloud-hosted data and compute management platform.
-
-💻 Web Development
-
-🎮 Baskin Day TypeRacer
- — Real-time multiplayer typing game built with React + WebSockets.
-
-🥊 BoxingNews258
- — Boxing forum + news aggregator hosted on AWS (React, Node, PostgreSQL).
-
-🧩 Open Source Contributions
-
-🧠 UCSC Autograder
- — Dockerized grading system with real-time WebSocket feedback used by UCSC faculty.
-
-
-  ## ☁️ Cloud & Infrastructure
-- **[AutoOps](https://github.com/yourusername/AutoOps)** — AI-driven self-healing infrastructure using AWS Bedrock, Docker, and EC2.  
-- **[PanTree](https://github.com/yourusername/PanTree)** — Cloud-hosted data and compute management tool (add short description here).
-
----
-
-## 💻 Web Development
-- **[Baskin Day TypeRacer](https://github.com/yourusername/BaskinDay-TypeRacer)** — Real-time multiplayer typing game built with React and WebSockets.  
-- **[BoxingNews258](https://github.com/yourusername/BoxingNews258)** — Boxing forum and news aggregation site hosted on AWS (React + Node + PostgreSQL).
-
----
-
-## 🧩 Open Source Contributions
-- **[UCSC Autograder](https://github.com/yourusername/Autograder)** — Dockerized grading platform with real-time feedback via WebSockets, used by UCSC faculty.  
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/franklinnnwang/" target="_blank" rel="noreferrer">

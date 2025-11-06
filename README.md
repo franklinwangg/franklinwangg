@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franklin Wang</h1>
 <h3 align="center">A passionate Computer Science major from UC Santa Cruz!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram087" alt="vikram087" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franklinwangg" alt="franklinwangg" /></a> </p>
 
 - 📫 How to reach me **franklinywang@gmail.com**
 
@@ -73,15 +73,15 @@ Here are some of my favorite projects:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
  </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram087&show_icons=true&locale=en&layout=compact" alt="vikram087" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklinwangg&show_icons=true&locale=en&layout=compact" alt="franklinwangg" /></p> -->
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vikram087&show_icons=true&locale=en" alt="vikram087" />
+      <img src="https://github-readme-stats.vercel.app/api?username=franklinwangg&show_icons=true&locale=en" alt="franklinwangg" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikram087&" alt="vikram087" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=franklinwangg&" alt="franklinwangg" />
     </td>
   </tr>
 </table>

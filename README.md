@@ -1,5 +1,6 @@
 <div align="center">
-## Hi 👋, I'm Franklin Wang
+
+  ## Hi 👋, I'm Franklin Wang
 ---
 A passionate Computer Science major from UC Santa Cruz!  
 <br>

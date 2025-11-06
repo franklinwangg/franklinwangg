@@ -1,7 +1,15 @@
+<div align="center">
+
 ## Hi 👋, I'm Franklin Wang
 ---
+A passionate Computer Science major from UC Santa Cruz!  
+<br>
+🎓 Focused on distributed systems, cloud, and AI infrastructure.
 
-A passionate Computer Science major from UC Santa Cruz!
+</div>
+
+
+📫 How to reach me franklinywang@gmail.com
 
 # 🚀 Check Out My Repositories
 Here are some of my favorite projects:

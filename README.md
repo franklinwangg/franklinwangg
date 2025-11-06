@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 A passionate Computer Science major from UC Santa Cruz!
 
-#🚀 Check out my repositories
+🚀 Check out my repositories
 ---
 Here are some of my favorite projects:
 

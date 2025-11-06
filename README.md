@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi 👋, I'm Franklin Wang
+---
 <!--
 **franklinwangg/franklinwangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,19 +16,28 @@ Here are some ideas to get you started:
 -->
 A passionate Computer Science major from UC Santa Cruz!
 
-🚀 Check out my repositories
----
+# 🚀 Check Out My Repositories
 Here are some of my favorite projects:
 
-🔗 Linkkup - linkkup.ai
-🤺 Garde - gardeai.com
-🔬 ICAM Materials Database
-📚 Pomodoro - Web App, Chatbot, Practice Test Maker, Note Maker
-🏔️ ClimbGUI - climb-gui.netlify.app
-🧠 MindShift
-🦈 Sharkproof
-🤝 HelpingHand
-🏎️ Traffic Invaders
+---
+
+## ☁️ Cloud & Infrastructure
+- **[AutoOps](https://github.com/yourusername/AutoOps)** — AI-driven self-healing infrastructure using AWS Bedrock, Docker, and EC2.  
+- **[PanTree](https://github.com/yourusername/PanTree)** — Cloud-hosted data and compute management tool (add short description here).
+
+---
+
+## 💻 Web Development
+- **[Baskin Day TypeRacer](https://github.com/yourusername/BaskinDay-TypeRacer)** — Real-time multiplayer typing game built with React and WebSockets.  
+- **[BoxingNews258](https://github.com/yourusername/BoxingNews258)** — Boxing forum and news aggregation site hosted on AWS (React + Node + PostgreSQL).
+
+---
+
+## 🧩 Open Source Contributions
+- **[UCSC Autograder](https://github.com/yourusername/Autograder)** — Dockerized grading platform with real-time feedback via WebSockets, used by UCSC faculty.  
+
+---
+
 ## Connect with me:
 franklinnnwang
 

@@ -19,6 +19,7 @@ Here are some of my favorite projects that showcase my work across cloud, web, a
 
 ### 💻 Web Development
 🎮 **[Baskin Day TypeRacer](https://github.com/franklinwangg/Baskin-Day-TypeRacer)** — Typing game built and used by 70+ students for a school event (built with React and Zustand).  
+
 🥊 **[BoxingNews258](https://github.com/franklinwangg/BoxingNews258)** — Boxing forum + news aggregator hosted on AWS (React, Node, PostgreSQL).
 
 ---

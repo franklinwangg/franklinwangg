@@ -12,6 +12,7 @@ Here are some of my favorite projects that showcase my work across cloud, web, a
 
 ### ☁️ Cloud & Infrastructure
 ⚙️ **[AutoOps](https://github.com/franklinwangg/AutoOps)** — A self-healing server management system that automatically diagnoses and troubleshoots remote servers using AI, built with AWS Bedrock, Docker, and EC2.
+
 🌩️ **[PanTree](https://github.com/franklinwangg/PanTree)** — a retrieval-augmented recommendation system that leverages NVIDIA NIMs and vector databases on AWS to simulate personalized product suggestions based on user purchase history.
 
 ---
